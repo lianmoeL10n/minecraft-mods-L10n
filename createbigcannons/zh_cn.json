@@ -390,7 +390,7 @@
   "item.createbigcannons.delayed_impact_fuze.tooltip.condition1": "右键点击时",
   "item.createbigcannons.delayed_impact_fuze.tooltip.condition2": "Detonation",
   "item.createbigcannons.delayed_impact_fuze.tooltip.shell_info": "Impact Chance: _%s%%_",
-  "item.createbigcannons.delayed_impact_fuze.tooltip.summary": "当撞击到某些东西之后，在一个短暂的时间后引爆。由于_简单的触发机械结构_，当受到碰撞后并不会百分百的触发记时器",
+  "item.createbigcannons.delayed_impact_fuze.tooltip.summary": "当_撞击_到某些东西之后，在一个_短暂的时间_后引爆。由于_简单的触发机械结构_，当受到碰撞后并不会百分百的触发记时",
   "item.createbigcannons.empty_autocannon_cartridge": "机炮弹壳（空）",
   "item.createbigcannons.empty_powder_charge": "空发射药包",
   "item.createbigcannons.filled_autocannon_cartridge": "机炮弹壳（已装药）",
