@@ -349,7 +349,7 @@
   "entity.createbigcannons.shot": "炮弹",
   "entity.createbigcannons.shrapnel": "弹片",
   "entity.createbigcannons.shrapnel_shell": "榴散炮弹",
-  "entity.createbigcannons.traffic_cone": "Traffic Cone",
+  "entity.createbigcannons.traffic_cone": "路障",
   "exception.createbigcannons.cannon_drill.tooltip.dryBore": "火炮钻孔机在工作时需要持续的水供应",
   "exception.createbigcannons.cannon_drill.tooltip.encounteredProblem": "火炮钻孔机遇到了一个问题：",
   "exception.createbigcannons.cannon_drill.tooltip.none": "火炮钻孔没有失败，这句话不应该被显示出来",
