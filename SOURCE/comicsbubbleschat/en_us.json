@@ -1,0 +1,34 @@
+{
+  "key.comicsbubbleschat.category": "Comics Bubbles Chat",
+  "key.openoptions.desc": "Gui Options",
+  "key.openguitext.desc": "Gui Text",
+
+  "text.red": "Red",
+  "text.green": "Green",
+  "text.blue": "Blue",
+  "text.alpha": "Transparency",
+
+  "text.config.title": "Options Comics Bubbles Chat",
+  "text.config.outline": "Outline color option",
+  "text.config.inside": "Inside color option",
+  "text.config.text": "Text color option",
+  "text.config.test": "This is a test !",
+  "text.config.resetcolorduration": "Reset color & duration",
+  "text.config.resetstack": "Reset max bubbles stackable",
+  "text.config.resetlinewidth": "Reset max line width",
+  "text.config.clearbubbles": "Remove current bubbles",
+  "text.config.maxstackbubbles": "Max bubbles stackable (0 = ∞)",
+  "text.config.maxlinewidth": "Max line width (min = 50)",
+  "text.config.enablebubble": "Enable Bubbles",
+  "text.config.enablethroughblock": "Transparency Through Block (like username)",
+  "text.config.forceformatchat": "Force chat format (if the bubbles do not appear)",
+
+  "text.config.duration.suffix": "seconds",
+  "text.config.duration.prefix": "Duration bubbles",
+  "text.config.sizebubble.prefix": "Size of bubbles",
+  "text.config.range.prefix": "Receiving Distance Bubble",
+  "text.mustbeplayer" : "You must be a player to use this command !",
+
+
+  "text.config.nolinked": "The mod is not linked to at server, the bubbles will not appear !"
+}
