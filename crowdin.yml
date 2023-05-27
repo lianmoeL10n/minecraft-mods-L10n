@@ -1,3 +1,5 @@
 files:
-  - source: source/**/en_us.json
+  - source: SOURCE/**/en_us.json
+    ignore:
+      - /BACKUP/
     translation: /**/%language%.json
