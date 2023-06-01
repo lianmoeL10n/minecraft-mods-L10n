@@ -3,7 +3,7 @@
 [![Crowdin](https://badges.crowdin.net/communityL10n-mcmods/localized.svg)](https://crowdin.com/project/communityL10n-mcmods) [![cc](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-orange)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 这是社区本地化项目的 Minecraft 模组翻译仓库，用于社区本地化制作的 Minecraft 模组翻译的文件存储、协作和分享
 
-**🎯如果您想要参与贡献，请查阅这篇引导🎯**
+**🎯如果您想要参与贡献，请查阅[这篇指南](https://gitee.com/community-l10n/co/blob/master/%E6%96%87%E7%AB%A0/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97.md)🎯**
 
 该仓库的所有未特别声明的简体中文翻译文件皆使用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议开源，所有英文源文件按照原项目规定开源或闭源。
 英文源文件仅用于 Crowdin 平台和翻译参照，而不用于重新发布或开源、开放贡献等行为
