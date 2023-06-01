@@ -1,4 +1,6 @@
-[![Crowdin](https://badges.crowdin.net/communityL10n-mcmods/localized.svg)](https://crowdin.com/project/communityL10n-mcmods)  
+<div align=center>
+
+[![Crowdin](https://badges.crowdin.net/communityL10n-mcmods/localized.svg)](https://crowdin.com/project/communityL10n-mcmods) [![cc](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-orange)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 这是社区本地化项目的 Minecraft 模组翻译仓库，用于社区本地化制作的 Minecraft 模组翻译的文件存储、协作和分享
 
 该仓库翻译项目使用 Crowdin 进行开放贡献工作，Crowdin 项目地址：[社区本地化 - Minecraft 模组](https://zh.crowdin.com/project/communityL10n-mcmods/zh-CN)
@@ -11,3 +13,4 @@
 社区本地化是一个由社区建设维护的开源、开放贡献项目，交流 QQ 群：814832279
 
 该项目由联萌本地化团队发起，联萌本地化联系邮箱：lianmoe@outlook.com
+</div>
