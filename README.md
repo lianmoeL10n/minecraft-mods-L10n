@@ -12,5 +12,4 @@
 
 社区本地化是一个由社区建设维护的开源、开放贡献项目，交流 QQ 群：[814832279](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=LhCXFBN0CebS_pSDLG6Sm9r_jiJOnXgC&authKey=CL0h%2FWXbZqcbX4nNV%2Fd%2B%2FRaoSrHVOEAFscvY01cU%2FSFnxm7CSkUqaswHc4MJRKay&noverify=0&group_code=814832279)
 
-该项目由联萌本地化团队发起，联萌本地化联系邮箱：lianmoe@outlook.com
 </div>
