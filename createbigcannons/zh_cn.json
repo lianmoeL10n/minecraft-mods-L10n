@@ -497,8 +497,8 @@
   "item.createbigcannons.timed_fuze.tooltip.shell_info": "引爆时间：_%ss %s ticks_",
   "item.createbigcannons.timed_fuze.tooltip.shell_info.item": "引爆时间：%ss %s ticks",
   "item.createbigcannons.timed_fuze.tooltip.summary": "从发射起在 _设定的时间_ 后引爆",
-  "item.createbigcannons.tracer_tip": "Tracer Tip",
-  "item.createbigcannons.tracer_tip.tooltip": "TRACER TIP",
+  "item.createbigcannons.tracer_tip": "曳光附着物",
+  "item.createbigcannons.tracer_tip.tooltip": "曳光附着物",
   "item.createbigcannons.tracer_tip.tooltip.summary": "_Illuminates_ autocannon rounds, making them visible.",
   "item.createbigcannons.worm": "胶刷",
   "item.createbigcannons.worm.tooltip": "胶刷",
@@ -522,5 +522,5 @@
   "recipe.createbigcannons.melting": "加热熔融",
   "tooltip.createbigcannons.jei_info.added_fuze": "+ Fuze",
   "tooltip.createbigcannons.jei_info.added_power": "+ Power",
-  "tooltip.createbigcannons.tracer": "+ Tracer"
+  "tooltip.createbigcannons.tracer": "+ 曳光"
 }
