@@ -18,7 +18,7 @@
   "item.drg_flares.drg_flare_red": "红色照明弹",
   "item.drg_flares.drg_flare_black": "黑色照明弹",
   "entity.drg_flares.drg_flare": "照明弹",
-  "__comment1": "Subtitles Names",
+  "__comment1": "子标题名称",
   "subtitles.drg_flares.flare_throw": "投掷照明弹",
   "subtitles.drg_flares.flare_bounce": "照明弹反弹",
   "__comment2": "按键绑定名称",
