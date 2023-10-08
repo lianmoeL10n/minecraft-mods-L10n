@@ -1,5 +1,5 @@
 {
-  "armorstatues.dataSync.failure": "无法修改盔甲架数据： %s",
+  "armorstatues.dataSync.failure": "无法修改盔甲架数据：%s",
   "armorstatues.dataSync.failure.noArmorStand": "没有合规的盔甲架",
   "armorstatues.dataSync.failure.noPermission": "没有权限",
   "armorstatues.dataSync.failure.notFinished": "Queue Not Empty",
