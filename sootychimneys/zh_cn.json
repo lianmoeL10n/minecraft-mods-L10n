@@ -1,15 +1,15 @@
 {
-  "block.sootychimneys.brick_chimney": "Brick Chimney",
-  "block.sootychimneys.copper_chimney": "Copper Chimney",
-  "block.sootychimneys.dirty_brick_chimney": "Dirty Brick Chimney",
-  "block.sootychimneys.dirty_copper_chimney": "Dirty Copper Chimney",
-  "block.sootychimneys.dirty_stone_brick_chimney": "Dirty Stone Brick Chimney",
-  "block.sootychimneys.dirty_terracotta_chimney": "Dirty Terracotta Chimney",
-  "block.sootychimneys.stone_brick_chimney": "Stone Brick Chimney",
-  "block.sootychimneys.terracotta_chimney": "Terracotta Chimney",
-  "jei.sootychimneys.category.soot_covering": "Soot Covering",
-  "jei.sootychimneys.category.soot_scraping": "Soot Scraping",
-  "jei.sootychimneys.category.soot_scraping.soot_items_info": "May produce a byproduct",
-  "message.sootychimneys.blocked": "Smoke blocked",
-  "message.sootychimneys.open": "Smoke flow restored"
+  "block.sootychimneys.brick_chimney": "红砖烟囱",
+  "block.sootychimneys.copper_chimney": "铜制烟囱",
+  "block.sootychimneys.dirty_brick_chimney": "覆灰红砖烟囱",
+  "block.sootychimneys.dirty_copper_chimney": "覆灰铜制烟囱",
+  "block.sootychimneys.dirty_stone_brick_chimney": "覆灰石砖烟囱",
+  "block.sootychimneys.dirty_terracotta_chimney": "覆灰陶瓦烟囱",
+  "block.sootychimneys.stone_brick_chimney": "石砖烟囱",
+  "block.sootychimneys.terracotta_chimney": "陶瓦烟囱",
+  "jei.sootychimneys.category.soot_covering": "煤烟沉染",
+  "jei.sootychimneys.category.soot_scraping": "烟灰刮除",
+  "jei.sootychimneys.category.soot_scraping.soot_items_info": "可能会产生副产品",
+  "message.sootychimneys.blocked": "烟雾已阻止",
+  "message.sootychimneys.open": "烟雾已开放"
 }
