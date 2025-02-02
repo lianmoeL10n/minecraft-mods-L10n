@@ -1,7 +1,7 @@
 {
   "block.framedblocks.framed_activator_rail_slope": "激活铁轨斜坡框架",
-  "block.framedblocks.framed_adj_double_copycat_panel": "复合竖板可调节框架",
-  "block.framedblocks.framed_adj_double_copycat_slab": "复合台阶可调节框架",
+  "block.framedblocks.framed_adj_double_copycat_panel": "复合可调节竖板框架",
+  "block.framedblocks.framed_adj_double_copycat_slab": "复合可调节台阶框架",
   "block.framedblocks.framed_adj_double_panel": "复合竖板框架",
   "block.framedblocks.framed_adj_double_slab": "复合台阶框架",
   "block.framedblocks.framed_bars": "栏杆框架",
@@ -11,7 +11,7 @@
   "block.framedblocks.framed_centered_panel": "居中竖板框架",
   "block.framedblocks.framed_centered_slab": "居中台阶框架",
   "block.framedblocks.framed_chain": "锁链框架",
-  "block.framedblocks.framed_checkered_cube": "棋盘格方块框架",
+  "block.framedblocks.framed_checkered_cube": "棋盘格框架",
   "block.framedblocks.framed_checkered_cube_segment": "棋盘格方块框架碎片",
   "block.framedblocks.framed_checkered_panel": "棋盘格竖板框架",
   "block.framedblocks.framed_checkered_panel_segment": "棋盘格竖板框架碎片",
