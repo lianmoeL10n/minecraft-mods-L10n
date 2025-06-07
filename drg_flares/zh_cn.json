@@ -64,7 +64,7 @@
   "drg_flares.settings.seconds_until_dimming_out": "变暗所需秒数",
   "drg_flares.settings.seconds_until_dimming_out.desc": "照明弹从最大亮度到熄灭的时间\nFlare starts at its max brightness\nand dims out after a set period of time",
   "drg_flares.settings.and_then_seconds_until_fizzling_out": "... 之后失去作用的秒数\n... and then Seconds Until Fizzling Out",
-  "drg_flares.settings.and_then_seconds_until_fizzling_out.desc": "After being dimmed out for a set period of time,\na flare fizzles out completely\n \n§eAdditive with \"Seconds Until Dimming Out\"",
+  "drg_flares.settings.and_then_seconds_until_fizzling_out.desc": "",
   "drg_flares.settings.and_then_seconds_until_despawn": "... and then Seconds Until Despawn",
   "drg_flares.settings.and_then_seconds_until_despawn.desc": "After being fizzled for a set period of time,\na flare despawns\n \n§eAdditive with \"Seconds Until Fizzling Out\"",
   "drg_flares.settings.full_brightness_light_level": "Flare's Initial Brightness",
